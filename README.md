@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/vue3-local-scope?color=a1b858&label=)](https://www.npmjs.com/package/vue3-local-scope)
 
-Similar to [vue-local-scope](https://github.com/posva/vue-local-scope), for use in Vue 3 Local Scope with full type hints.
+Based on [Vue 3.3](https://blog.vuejs.org/posts/vue-3-3), Similar to [vue-local-scope](https://github.com/posva/vue-local-scope), for use in Vue 3 Local Scope with full type hints.
 
 ## Usage
 
